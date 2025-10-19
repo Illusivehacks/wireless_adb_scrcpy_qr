@@ -10,7 +10,7 @@ A small, aesthetic PyQt5 GUI that generates an ADB wireless-debugging QR code (A
 
 ## Preview
 
-![Screenshot](./docs/f3d1ee83-a9da-417c-a032-b57ca4b01d67.png)
+![Screenshot](scrcpy.png)
 
 ## Features
 
